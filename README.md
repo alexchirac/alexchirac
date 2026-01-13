@@ -1,4 +1,6 @@
-# Hi there, I'm Alexandru-Stefan Chirac! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chirac+Alexandru-Ștefan!;+Nice+To+Meet+You+😊" />
+</h1>
 
 I am a Computer Science student at the **Faculty of Automatic Control and Computer Science (UPB)** in Bucharest, passionate about distributed systems, backend development, and building scalable applications.
 
