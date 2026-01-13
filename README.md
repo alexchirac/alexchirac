@@ -46,20 +46,7 @@ A simulated audio player platform managing users, songs, and podcasts.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=alexchirac&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=alexchirac&show_icons=true&theme=radical)" alt="Alex's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=alexchirac&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchirac&layout=compact&theme=radical)" alt="Top Langs" />
-</p>
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchirac&layout=compact&theme=radical) -->
-
----
-
 ### 📫 Connect with me
 - 💼 [LinkedIn](https://linkedin.com/in/chirac-stefan)
 - 📧 [Email](mailto:alexandru.chirac5003@yahoo.com)
+- 📧 [Secondary Email](mailto:calexandru_stefan@yahoo.com)
