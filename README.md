@@ -27,20 +27,20 @@ I have experience working with **Java, Spring, and C++**, and I love tackling co
 
 ### 🚀 Featured Projects
 
-#### 📡 [BitTorrent Protocol Simulator](https://github.com/alexchirac/YOUR-REPO-LINK-HERE)
+#### 📡 [BitTorrent Protocol Simulator](https://github.com/alexchirac/bittorrent)
 *C++, MPI*
 A distributed BitTorrent protocol simulator designed for parallel computing.
 - Engineered a multi-threaded peer system with dedicated download/upload threads.
 - Implemented a centralized tracker to coordinate peer-to-peer sharing.
 - Optimized network efficiency by **10%** using round-robin seeder selection.
 
-#### 🏗️ [Consite](https://github.com/alexchirac/YOUR-REPO-LINK-HERE)
+#### 🏗️ [Consite](https://github.com/alexchirac/)
 *Node.js, Vue.js, Python, Docker*
 A web application for efficient construction site invoice management.
 - Designed a scalable Node.js backend and an intuitive Vue.js frontend.
 - Implemented an automated pipeline using a fine-tuned **LLM-based parser** to extract structured data from PDF invoices.
 
-#### 🎧 [Global Waves](https://github.com/alexchirac/YOUR-REPO-LINK-HERE)
+#### 🎧 [Global Waves](https://github.com/alexchirac/global-waves)
 *Java, OOP*
 A simulated audio player platform managing users, songs, and podcasts.
 - Features command functionalities (skip, shuffle, playlist management).
